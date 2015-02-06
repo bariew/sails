@@ -1,7 +1,1 @@
-<<<<<<< HEAD
-# sails
-### a Sails application
-=======
-sails
-=====
-
+<?php return [3,5,6];
