@@ -1,1 +1,1 @@
-<?php return [3,5,6];
+<?php return [3,5,7];
